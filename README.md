@@ -1,5 +1,3 @@
-# Customer-Segmentation-KMeans
-Customer Segmentation using KMeans Clustering | CodeClause Internship Project
 # Customer Segmentation with KMeans Clustering  
 
 ## 📌 Project Overview  
@@ -77,4 +75,3 @@ Customer segmentation helps businesses understand their customers better and des
 ---
 
 ✍️ Developed by **Durga Damai** as part of **CodeClause Internship**.  
-
